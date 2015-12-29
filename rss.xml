@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nasabeba]]></title>
         <description><![CDATA[Nasabeba]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.nasabeba.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 15:49:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 16:06:51 GMT</lastBuildDate>
+        <atom:link href="http://www.nasabeba.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Naš mali Lav je zvanično ljuta beba.]]></title>
+            <description><![CDATA[<article><h1>Naš mali Lav je zvanično ljuta beba.</h1><p>Sa tri meseca i kusur dana Luka je jedne večeri imao napad kolika koji je uzbudio komšiluk toliko da je komšinica lupala o zid, a sutradan kada smo se sreli u šetnji pitala je “Da li je sve redu s njim”, tim rečima. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb8e399643dadd00ebb4c926ab0db3954d31f2d0.jpg"></article>]]></description>
+            <link>http://www.nasabeba.com/nas-mali-lav-je-zvanicno-ljuta-beba/index.html</link>
+            <guid isPermaLink="false">cf23ea80-5511-40c6-9da0-47ebf2404311</guid>
+            <pubDate>Tue, 29 Dec 2015 16:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Doček Nove godine sa bebom.]]></title>
             <description><![CDATA[<article><h1>Doček Nove godine sa bebom.</h1><p>Čim smo saznali da su i kumovi trudni, dva meseca za nama, krenuli smo da pravimo planove za letovanja i dočeke novih godina. Pa tako i za ovu 2016. smo dogovorili doček kod nas. S tim što je njihova beba mirna, duboko i dugo spava, a naša je glasna, aktivna i plitko spava. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0679fab022fb1438063cfbd26fbe74d33fda459.jpg"></article>]]></description>
-            <link>undefineddocek-nove-godine-sa-bebom/index.html</link>
+            <link>http://www.nasabeba.com/docek-nove-godine-sa-bebom/index.html</link>
             <guid isPermaLink="false">964a6582-21bd-453f-a3c8-eb0832ae78a0</guid>
             <pubDate>Tue, 29 Dec 2015 15:49:21 GMT</pubDate>
         </item>
