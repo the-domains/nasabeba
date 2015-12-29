@@ -1,0 +1,28 @@
+name: Nasabeba
+favicon: null
+layout_spectrum: 0.8831854278687388
+typography_spectrum: 0.5980550348758698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4683288377709687
+  lightness: 0.8284311797469854
+  saturation: 0.035181174986064434
+  rhythmicContrast: 0.9199722735211253
+purpose: []
