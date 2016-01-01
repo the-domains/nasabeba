@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Solidarišem se sa svim roditeljima koji se bore sa istim problemom.
-datePublished: '2015-12-29T16:27:27.550Z'
-dateModified: '2015-12-29T16:27:07.938Z'
+datePublished: '2016-01-01T12:08:51.319Z'
+dateModified: '2016-01-01T12:08:45.916Z'
 title: Atopijski dermatitis kod moje bebe.
 author: []
+sourcePath: _posts/2015-12-29-atopijski-dermatitis-kod-moje-bebe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-atopijski-dermatitis-kod-moje-bebe.md
-published: true
 url: atopijski-dermatitis-kod-moje-bebe/index.html
 _type: Article
 
