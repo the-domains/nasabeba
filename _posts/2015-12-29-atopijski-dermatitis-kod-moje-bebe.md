@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Solidarišem se sa svim roditeljima koji se bore sa istim problemom.
-datePublished: '2016-01-01T12:11:53.347Z'
-dateModified: '2016-01-01T12:11:50.512Z'
+datePublished: '2016-01-01T12:13:00.115Z'
+dateModified: '2016-01-01T12:12:52.909Z'
 title: Atopijski dermatitis kod moje bebe.
 author: []
 sourcePath: _posts/2015-12-29-atopijski-dermatitis-kod-moje-bebe.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: atopijski-dermatitis-kod-moje-bebe/index.html
-_type: WebPage
+_type: Article
 
 ---
 Luka u prva dva meseca puno bljuckao, umeo je da se ispovraća noću po sebi tako da natopi i bodi i pokrivač i posteljinu... u nekim momentima sam bila očajna, ali sad vidim da je to samo iritirajuće, da ima gorih stvari. 
