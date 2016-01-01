@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Sa tri meseca i kusur dana Luka je jedne večeri imao napad kolika koji je uzbudio komšiluk.
-datePublished: '2016-01-01T12:07:25.318Z'
-dateModified: '2015-12-29T18:58:14.646Z'
+datePublished: '2016-01-01T12:08:35.329Z'
+dateModified: '2016-01-01T12:08:07.319Z'
 title: Naš mali Lav je zvanično ljuta beba.
 author: []
 sourcePath: _posts/2015-12-29-nas-mali-lav-je-zvanicno-ljuta-beba.md
