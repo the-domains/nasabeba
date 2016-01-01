@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Čim smo saznali da su i kumovi trudni, dva meseca za nama, krenuli smo da pravimo planove za letovanja i dočeke novih godina. '
-datePublished: '2015-12-29T15:49:21.744Z'
-dateModified: '2015-12-29T15:48:40.030Z'
+datePublished: '2016-01-01T12:08:27.874Z'
+dateModified: '2016-01-01T12:08:19.370Z'
 title: Doček Nove godine sa bebom.
 author: []
+sourcePath: _posts/2015-12-29-docek-nove-godine-sa-bebom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-docek-nove-godine-sa-bebom.md
-published: true
 url: docek-nove-godine-sa-bebom/index.html
 _type: Article
 
