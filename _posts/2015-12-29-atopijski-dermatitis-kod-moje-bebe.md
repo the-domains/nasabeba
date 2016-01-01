@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Solidarišem se sa svim roditeljima koji se bore sa istim problemom.
-datePublished: '2016-01-01T12:13:00.115Z'
-dateModified: '2016-01-01T12:12:52.909Z'
+datePublished: '2016-01-01T12:14:12.880Z'
+dateModified: '2016-01-01T12:14:04.635Z'
 title: Atopijski dermatitis kod moje bebe.
 author: []
 sourcePath: _posts/2015-12-29-atopijski-dermatitis-kod-moje-bebe.md
@@ -29,4 +29,4 @@ Zbog tog bljuckanja je portikla postala zvanično deo svake odevne kombinacije, 
 Ovo izbijanje smo primirili običnim belim vazelinom, Linola kupkom, pantenolom (mast) i Lipikar-om. Kortikosteroide smo ipak morali da primenimo na vratu jer mu je smetalo da spava, ali su leđa i stomak prevelike površine za taj lek. Srećom, prošlo je uz navedenu negu. 
 
 Iako je naslov atopijski dermatitis, ja nemam rešenje, niti ništa novo da napisem na tu temu, samo sam podelila naše iskustvo. Možda nekome pomogne da ranije prepozna i ne pomisli kao ja da je u pitanju iritacija. Da smo ranije negovali intenzivnije, možda ne bi buknulo... Dakle, solidarišem se sa svim roditeljima koji se bore sa istim problemom.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/985d5df4-4100-47e4-b280-df9ba497f6f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0ffa3ea959be60aba25124153b028d6ce27829.jpg)
