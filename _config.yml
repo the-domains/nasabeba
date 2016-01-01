@@ -1,6 +1,6 @@
 name: Nasabeba
 favicon: null
-layout_spectrum: 0.49654
+layout_spectrum: 1
 typography_spectrum: 0.27856
 title: Blog o čarima roditeljstva.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0
+  brandStrength: 0.625
   lightness: 0.625
-  saturation: 0
+  saturation: 0.125
   rhythmicContrast: 1
 purpose: []
