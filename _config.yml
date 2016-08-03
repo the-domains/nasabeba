@@ -1,7 +1,7 @@
 name: Nasabeba
 favicon: null
-layout_spectrum: 0.74789
-typography_spectrum: 0.70481
+layout_spectrum: 0.5015951378736645
+typography_spectrum: 0.860226332442835
 title: Kratki tekstovi o izazovima roditeljstva.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.625
-  lightness: 0.625
-  saturation: 0.125
-  rhythmicContrast: 1
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.8006267307791859
+  lightness: 0.2963137780316174
+  saturation: 0.6972304107621312
+  rhythmicContrast: 0.9553841389715672
 purpose: []
