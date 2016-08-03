@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blog o čarima roditeljstva.]]></title>
-        <description><![CDATA[Blog o čarima roditeljstva.]]></description>
+        <title><![CDATA[Kratki tekstovi o izazovima roditeljstva.]]></title>
+        <description><![CDATA[Kratki tekstovi o izazovima roditeljstva.]]></description>
         <link>http://nasabeba.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 12:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 13:07:44 GMT</lastBuildDate>
         <atom:link href="http://nasabeba.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Atopijski dermatitis kod moje bebe.]]></title>
-            <description><![CDATA[<article><h1>Atopijski dermatitis kod moje bebe.</h1><p>Luka u prva dva meseca puno bljuckao, umeo je da se ispovraća noću po sebi tako da natopi i bodi i pokrivač i posteljinu… u nekim momentima sam bila očajna, ali sad vidim da je to samo iritirajuće, da ima gorih stvari. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e5221998504b959f71e4a5a1f68c16dd4748579.jpg"></article>]]></description>
+            <title><![CDATA[Doček Nove godine sa bebom.]]></title>
+            <description><![CDATA[<p>Čim smo saznali da su i kumovi trudni, dva meseca za nama, krenuli smo da pravimo planove za letovanja i dočeke novih godina. Pa tako i za ovu 2016. smo dogovorili doček kod nas. S tim što je njihova beba mirna, duboko i dugo spava, a naša je glasna, aktivna i plitko spava.</p>]]></description>
+            <link>http://nasabeba.com/docek-nove-godine-sa-bebom/index.html</link>
+            <guid isPermaLink="false">964a6582-21bd-453f-a3c8-eb0832ae78a0</guid>
+            <pubDate>Wed, 03 Aug 2016 13:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bubamara]]></title>
+            <description><![CDATA[<article><h1>Bubamara</h1><p>Luka u prva dva meseca puno bljuckao, umeo je da se ispovraća noću po sebi tako da natopi i bodi i pokrivač i posteljinu… u nekim momentima sam bila očajna, ali sad vidim da je to samo iritirajuće, da ima gorih stvari. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e5221998504b959f71e4a5a1f68c16dd4748579.jpg"></article>]]></description>
             <link>http://nasabeba.com/atopijski-dermatitis-kod-moje-bebe/index.html</link>
             <guid isPermaLink="false">6d0b2e20-444d-47ce-9068-9724eefdda8a</guid>
             <pubDate>Fri, 01 Jan 2016 12:14:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Naš mali Lav je zvanično ljuta beba.]]></title>
-            <description><![CDATA[<article><h1>Naš mali Lav je zvanično ljuta beba.</h1><p>Sa tri meseca i kusur dana Luka je jedne večeri imao napad kolika koji je uzbudio komšiluk toliko da je komšinica lupala o zid, a sutradan kada smo se sreli u šetnji pitala je “Da li je sve redu s njim”, tim rečima.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e317459a249649a250ed1061229e34dafbb35b8.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a837e43b-8105-46aa-84eb-3d8dd9868a5b.jpg">]]></description>
             <link>http://nasabeba.com/nas-mali-lav-je-zvanicno-ljuta-beba/index.html</link>
             <guid isPermaLink="false">cf23ea80-5511-40c6-9da0-47ebf2404311</guid>
             <pubDate>Fri, 01 Jan 2016 12:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doček Nove godine sa bebom.]]></title>
-            <description><![CDATA[<article><h1>Doček Nove godine sa bebom.</h1><p>Čim smo saznali da su i kumovi trudni, dva meseca za nama, krenuli smo da pravimo planove za letovanja i dočeke novih godina. Pa tako i za ovu 2016. smo dogovorili doček kod nas. S tim što je njihova beba mirna, duboko i dugo spava, a naša je glasna, aktivna i plitko spava. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0679fab022fb1438063cfbd26fbe74d33fda459.jpg"></article>]]></description>
-            <link>http://nasabeba.com/docek-nove-godine-sa-bebom/index.html</link>
-            <guid isPermaLink="false">964a6582-21bd-453f-a3c8-eb0832ae78a0</guid>
-            <pubDate>Fri, 01 Jan 2016 12:08:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
